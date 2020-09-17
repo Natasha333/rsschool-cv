@@ -1,4 +1,4 @@
-## Natasha Domasevich
+# Natasha Domasevich
 
 ### Contact Info
 * Minsk, Belarus;
