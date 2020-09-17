@@ -19,6 +19,8 @@ My goal is to gain knowledge in the field of front-end development.
 * IDEF;
 * Enterprise Architect;
 * 1C;
+* 24Bitrix;
+* AutoCad;
 
 #### Version control
 * Git;
