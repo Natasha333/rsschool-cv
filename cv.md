@@ -3,8 +3,8 @@
 ### Contact Info
 * Minsk, Belarus;
 * e-mail: nata.domasevich2004@gmail.com;
-* Telegram: @andrei237;
-* Linkedin: andrei-domasevich;
+* Telegram: @natasha01d;
+* Linkedin: natalia-domasevich;
 
 ### Summary
 My goal is to gain knowledge in the field of front-end development.
